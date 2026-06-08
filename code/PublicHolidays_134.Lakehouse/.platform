@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "PublicHolidays_134",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "69de6327-e180-a407-468c-48d7b14c1250"
+  }
+}
